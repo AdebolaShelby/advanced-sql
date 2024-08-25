@@ -18,12 +18,4 @@ In this activity, you will rework your `Surfer` script as you add in methods to 
 
 Add a method to your class that prints out how many surfers are currently “shredding.”
 
-## Hint
 
-* Create a class variable shared by all instances of `Surfer`, and create an instance variable to increment it each time a new surfer is created.
-
-* For more on class syntax and examples, refer to the [Python documentation on classes](https://docs.python.org/3/tutorial/classes.html).
-
----
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
